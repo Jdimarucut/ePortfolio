@@ -1,4 +1,4 @@
-# **Jon Paolo Dimarucut - Portfolio**
+# **Jon Paolo Dimarucut - ePortfolio**
 
 ## **Description**
 A responsive portfolio website showcasing my programming skills, projects, and contact information. This website was built using **HTML**, **CSS**, and integrated with **JavaScript** to enhance user experience. It serves as a professional platform to present my projects, skill set, and personal brand.
